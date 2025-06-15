@@ -120,8 +120,8 @@ Welcome to the ultimate C# .NET learning resource! This repository is designed t
 | **Identity Server** | IdentityServer | Centralized authentication service | 🟡 Medium |
 | **Dependency Injection** | DI Container | [Understanding Dependency Injection](https://binarybytez.com/understanding-dependency-injection/) | 🔥 High |
 | **IoC Container** | Lifetime Management | [IoC Container and Lifetime Management](https://binarybytez.com/ioc-container-and-lifetime-management/) | 🔥 High |
-| **Web API** | ASP.NET Core Web API | [Building RESTful APIs](https://binarybytez.com/asp-net-core-web-api-project/) | 🔥 High |
-| **Clean API** | Structured API Project | [Clean Structured API Project](https://binarybytez.com/clean-structured-api-project/) | 🔥 High |
+| **Web API** | ASP.NET Core Web API | [Building RESTful APIs](https://github.com/kawser2133/web-api-project) | 🔥 High |
+| **Clean API** | Structured API Project | [Clean Structured API Project](https://github.com/kawser2133/clean-structured-api-project) | 🔥 High |
 
 ---
 
