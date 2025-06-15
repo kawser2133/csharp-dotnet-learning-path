@@ -279,16 +279,6 @@ Welcome to the ultimate C# .NET learning resource! This repository is designed t
 
 ---
 
-## 🌐 Additional Resources
-
-Check out my blog at [BinaryBytez](https://binarybytez.com/) for detailed articles on:
-
-- [Clean Architecture Implementation](https://binarybytez.com/understanding-clean-architecture/)
-- [SOLID Design Principles](https://binarybytez.com/mastering-solid-design-principles/)
-- [Performance Optimization Techniques](https://binarybytez.com/15-best-practices-for-high-performance-net-applications/)
-- [Exception Handling Best Practices](https://binarybytez.com/a-complete-guide-to-exception-handling-in-net/)
-- [Advanced LINQ and Lambda Expressions](https://binarybytez.com/understanding-linq-and-lambda-expressions/)
-
 ## 🚀 Getting Started
 
 1. **Fork this repository** to track your progress
@@ -323,5 +313,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Connect with me:**
 - 🌐 Website: [BinaryBytez](https://binarybytez.com/)
-- 💼 LinkedIn: [Kawser Hamid](https://linkedin.com/in/kawser-hamid)
+- 💼 LinkedIn: [Kawser Hamid](https://www.linkedin.com/in/kawser2133/)
 - 📧 Feel free to reach out for collaboration or questions!
