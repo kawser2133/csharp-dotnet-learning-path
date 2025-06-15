@@ -1,4 +1,4 @@
-# 🚀 C# .NET Developer Learning Path
+# C# .NET Developer Learning Path
 
 > A comprehensive roadmap and resource collection for C# .NET developers at all levels
 
