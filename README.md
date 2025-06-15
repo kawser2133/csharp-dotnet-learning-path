@@ -188,12 +188,12 @@ Welcome to the ultimate C# .NET learning resource! This repository is designed t
 | **Query APIs** | GraphQL | Schema definition, resolvers, queries | 🟡 Medium |
 | **High Performance** | gRPC | Protocol buffers, streaming | 🟡 Medium |
 | **Real-time** | SignalR Core | WebSocket abstraction, hubs | 🟡 Medium |
-| **Real-time** | WebSockets | Low-level WebSocket implementation | 🔶 Low |
+| **Real-time** | WebSockets | Low-level WebSocket implementation | 🟡 Medium |
 | **HTTP Communication** | HTTP Client | HttpClient best practices, policies | 🔥 High |
 | **Message Brokers** | MassTransit | Service bus abstraction | 🟡 Medium |
-| **Message Queues** | RabbitMQ | AMQP protocol, queues, exchanges | 🟡 Medium |
+| **Event Streaming** | Apache Kafka | [Event streaming, partitions](https://binarybytez.com/introduction-to-kafka-with-net-from-setup-to-implementation/) | 🔥 High |
+| **Message Queues** | RabbitMQ | AMQP protocol, queues, exchanges | 🔥 High |
 | **Cloud Messaging** | Azure Service Bus | Cloud-native messaging | 🟡 Medium |
-| **Event Streaming** | Apache Kafka | [Event streaming, partitions](https://binarybytez.com/introduction-to-kafka-with-net-from-setup-to-implementation/) | 🔶 Low |
 
 ---
 
