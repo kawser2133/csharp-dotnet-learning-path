@@ -24,7 +24,7 @@ Welcome to the ultimate C# .NET learning resource! This repository is designed t
 
 | **Category** | **Topic** | **Key Learning Points** | **Priority** |
 |--------------|-----------|-------------------------|--------------|
-| **Language Basics** | How C# Code Works | Compilation process, runtime behavior | 🔥 High |
+| **Language Basics** | [How C# Code Works](https://binarybytez.com/how-csharp-code-works/) | [Compilation process, runtime behavior](https://binarybytez.com/how-csharp-code-works/) | 🔥 High |
 | **Classes & Objects** | Introduction to Classes | Fields, Properties, Methods, Constructors | 🔥 High |
 | **Classes & Objects** | Types of Classes | Static, Partial, Sealed, Abstract, Nested | 🔥 High |
 | **Access Control** | Access Modifiers | Public, Private, Protected, Internal, Protected Internal | 🔥 High |
